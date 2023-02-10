@@ -5,3 +5,4 @@
 
 document.getElementById("demo").innerHTML="abcdef";// does the work of getting the value of the element having id demo
 document.title="abcfgh";
+document.getElementById("demo").style.color = "red";
